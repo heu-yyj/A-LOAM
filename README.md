@@ -1,3 +1,4 @@
+已在ubuntu20.04测试通过。
 # A-LOAM
 ## Advanced implementation of LOAM
 
@@ -10,7 +11,7 @@ A-LOAM is an Advanced implementation of LOAM (J. Zhang and S. Singh. LOAM: Lidar
 
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
-Ubuntu 64-bit 16.04 or 18.04.
+Ubuntu 64-bit 20.04.
 ROS Kinetic or Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
 
 
